@@ -1,4 +1,4 @@
-# Project Description
+# Stock Data Statistics
 
 This project involves the analysis of historical stock data for three major companies: Apple (AAPL), Amazon (AMZN), and Google (GOOG). The data spans several years and includes information on the opening, closing, high, and low prices, as well as trading volumes for each day.
 
